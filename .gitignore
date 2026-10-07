@@ -1,0 +1,46 @@
+# ===== Unity 缓存目录（绝对不传）=====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/UIElementsSchema/
+
+# ===== Unity 自动生成（会自动重建）=====
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# ===== 系统垃圾 =====
+.DS_Store
+Thumbs.db
+*~
+
+# ===== 打包产物 =====
+/[Ee]xported[Oo]bj/
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*_Data/
+*_BurstDebugInformation_DoNotShip/
+
